@@ -1,12 +1,12 @@
 # Tools developed to sign executables.
 ## Screenshot of help menu:
-![1](https://github.com/LordGuccif3r/Signer/Screenshots/1.png)
+![1](https://github.com/LordGuccif3r/Signer/blob/main/Screenshots/1.png)
 
 ## Screenshot of signing:
-![2](https://github.com/LordGuccif3r/Signer/Screenshots/2.png)
+![2](https://github.com/LordGuccif3r/Signer/blob/main/Screenshots/2.png)
 
 ## Screenshot of verify:
-![3](https://github.com/LordGuccif3r/Signer/Screenshots/3.png)
+![3](https://github.com/LordGuccif3r/Signer/blob/main/Screenshots/3.png)
 
 
 ## Requirements and installation 
