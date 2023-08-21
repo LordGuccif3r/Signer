@@ -11,7 +11,7 @@
 
 ## Requirements and installation 
 
-**DEBIANBASE (kali, parrot) or UBUNTU)**
+**DEBIAN BASE (kali, parrot) or UBUNTU**
 ```
 sudo apt-get install osslsigncode
 git clone https://github.com/LordGuccif3r/Signer.git
@@ -19,7 +19,7 @@ cd Signer
 chmod +x signer.py
 python Signer.py -h
 ```
-**ARCH LINUX)** 
+**ARCH LINUX** 
 ```
 sudo pacman -S osslsigncode
 git clone https://github.com/LordGuccif3r/Signer.git
@@ -32,14 +32,17 @@ python Signer.py -h
 **EXAMPLE OF USE**
 
 # Use -h to get the help 
-- python Signer.py -h
-
+```
+python Signer.py -h
+```
 # Verify if the executable is signed
-- python Signer.py -v malware.exe 
-
+```
+python Signer.py -v malware.exe 
+```
 # To sign an executable
-- python Signer.py -i malware.exe -d www.mydomain.com -o signed_malware.exe
-
+```
+python Signer.py -i malware.exe -d www.mydomain.com -o signed_malware.exe
+```
 ## Credits
 
 - This tools was develped fallowing the example of https://github.com/Tylous/Limelighter 
