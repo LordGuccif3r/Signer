@@ -1,12 +1,12 @@
 # Tools developed to sign executables.
 ## Screenshot of help menu:
-![AutoAwesome](https://github.com/LordGuccif3r/Signer/Screenshots/1.png)
+![1](https://github.com/LordGuccif3r/Signer/Screenshots/1.png)
 
 ## Screenshot of signing:
-![AutoAwesome2](https://github.com/LordGuccif3r/Signer/Screenshots/2.png)
+![2](https://github.com/LordGuccif3r/Signer/Screenshots/2.png)
 
 ## Screenshot of verify:
-![AutoAwesome2](https://github.com/LordGuccif3r/Signer/Screenshots/3.png)
+![3](https://github.com/LordGuccif3r/Signer/Screenshots/3.png)
 
 
 ## Requirements and installation 
